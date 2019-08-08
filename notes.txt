@@ -10,4 +10,14 @@ https://developers.google.com/web/tools/workbox/
 get api key from here
 https://newsapi.org/account
 
+NB: do not use python to serve. use npm serve instead.
 python -m http.server 80
+https://www.npmjs.com/package/serve
+serve
+
+
+shadow DOM
+https://polymer-library.polymer-project.org/2.0/docs/devguide/shadow-dom
+
+
+in chrome devtools > application > service workers > check select 'update on reload'
