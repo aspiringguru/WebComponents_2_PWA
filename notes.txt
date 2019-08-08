@@ -1,3 +1,13 @@
-
+Build an app with WebComponents in 9 minutes
+https://www.youtube.com/watch?v=mTNdTcwK3MM
+https://github.com/marcushellberg/bad-news
 
 https://www.youtube.com/watch?v=E8BeSSdIUW4
+
+
+https://developers.google.com/web/tools/workbox/
+
+get api key from here
+https://newsapi.org/account
+
+python -m http.server 80
